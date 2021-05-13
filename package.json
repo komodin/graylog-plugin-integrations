@@ -22,7 +22,7 @@
   ],
   "author": "Graylog, Inc. <hello@graylog.com>",
   "dependencies": {
-    "graylog-web-plugin": "file:../graylog2-server/graylog2-web-interface/packages/graylog-web-plugin"
+    "graylog-web-plugin": "file:./graylog-web-plugin"
   },
   "private": true,
   "devDependencies": {}
